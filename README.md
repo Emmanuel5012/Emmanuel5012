@@ -41,7 +41,7 @@ Here are the types of projects that align with my passion and goals:
 
 ### 📌 Featured Projects
 
-- [🔗 **Ojaja Treasures**](https://ojajatreasures.org) – WordPress site for a premium stone business
+- [🔗 **Ojaja Treasures**](https://ojajatreasures.org) – A website for Ancient Artifacts and Precious Gems
 - [🔗 **Emigr8Visa**](https://emigr8visa.com) – Immigration consultancy portal with dynamic form logic
 - [🔗 **Ife Grand Resort**](https://ifegrandresorts.com.ng) – Resort and leisure booking web system
 
@@ -52,7 +52,7 @@ Here are the types of projects that align with my passion and goals:
 ### 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,wordpress,git,github,docker,mysql,react" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,wordpress,git,github,docker,mysql,wix" />
 </p>
 
 ---
