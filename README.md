@@ -1,42 +1,81 @@
-<h1>Hi, I'm Oluwapelumi!<br/>
-  <a href="https://github.com/Emmanuel5012">Junior Web Developer</a> | 
- </h1>
+<h1 align="center">Hi, I'm Oluwapelumi Omisakin 👋</h1>
+<h3 align="center">Backend Developer | Web & WordPress Specialist | Passionate about Building Business-Centric Solutions</h3>
 
-<h2>👤 About Me</h2>
-<p>
-  I'm a passionate and curious junior developer focused on building impactful web and mobile experiences. I enjoy solving real-world problems with clean code and scalable backend systems. I am currently enrolled in the ALX ProDev Backend Development Program, where I am currently increasing my knowledge in my backend skils</p>
-
-<h2>🔧 Technologies & Tools</h2>
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/oluwapelumi-omisakin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Emmanuel5012"><img src="https://img.shields.io/github/followers/Emmanuel5012?label=GitHub&style=flat-square"></a>
 </p>
 
-<h2>🚧 Current Learning Focus</h2>
-<ul>
-  <li>🧱 Building scalable backend APIs with Python (Flask/Django)</li>
-  <li>🔐 Implementing robust API security (Auth, OAuth, Rate Limiting)</li>
-  <li>🛠️ CI/CD with GitHub Actions & Docker</li>
-  <li>🧠 Advanced Bash scripting and Linux command-line tools</li>
-  <li>📊 Designing efficient data models and pipelines</li>
-</ul>
+---
 
+### 🌍 About Me
 
+🚀 I'm currently enrolled in the **ALX ProDev Backend Engineering Programme** where I’m mastering core backend technologies and software engineering principles.
 
+💡 What got me into software engineering was a deep passion for solving real business problems. I love building **solutions that help businesses connect better with their customers**—through performance, design, and conversion-focused interfaces.
 
-<h2>🤝 Connect With Me</h2>
-<p>
-  <a href="https://twitter.com/pheloumi">
-    <img align="left" alt="Oluwapelumi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://linkedin.com/in/oluwapelumi-omisakin">
-    <img align="left" alt="Oluwapelumi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+🎯 My mission is to **build web apps that not only work—but *convert*.** I enjoy developing backend systems that are robust, scalable, and user-centric.
+
+---
+
+### 👷‍♂️ What I’m Working On
+
+🛠️ **My Learning Stack (2025):**
+
+- **Languages:** PHP, Python, JavaScript
+- **Frameworks:** Laravel, Express, Flask
+- **DevOps:** Git, GitHub Actions, Docker
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Frontend Tools:** HTML, CSS, Tailwind, React (Learning)
+
+🧠 **Projects I want to build:**
+Here are the types of projects that align with my passion and goals:
+- 🔒 **Authentication Systems** with role-based access control  
+- 🛒 **E-commerce Platforms** with dynamic product listings and checkout flows  
+- 🧾 **Invoice/Booking Systems** for service-based businesses  
+- 📈 **Analytics Dashboards** that visualize business insights  
+- 🤖 **AI-integrated Apps** that offer automation for repetitive business tasks  
+- 📬 **Newsletter + CRM Platforms** that help businesses stay connected with their clients
+
+---
+
+### 📌 Featured Projects
+
+- [🔗 **Ojaja Treasures**](https://ojajatreasures.org) – WordPress site for a premium stone business
+- [🔗 **Emigr8Visa**](https://emigr8visa.com) – Immigration consultancy portal with dynamic form logic
+- [🔗 **Ife Grand Resort**](https://ifegrandresorts.com.ng) – Resort and leisure booking web system
+
+📁 More projects → [Check my repositories](https://github.com/Emmanuel5012?tab=repositories)
+
+---
+
+### 🧰 Tech Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,wordpress,git,github,docker,mysql,react" />
 </p>
-<br style="clear:both"/>
+
+---
+
+### 🎯 Goals for 2025
+
+- 🚀 Launch at least 3 scalable web apps
+- 🎓 Complete ALX Backend Capstone with distinction
+- 👥 Collaborate on 5+ open-source or client projects
+- 🧳 Land a freelance or remote backend developer role
+
+---
+
+### 💬 Let’s Connect
+
+- 📩 Email: <a href="mailto:omisakinpelumi@gmail.com">omisakinpelumi@gmail.com</a>
+- 🌐 Portfolio (Coming soon): [YourPortfolio.com]
+- 🧠 Dev Blog: [Dev.to/YourHandle] *(optional)*
+
+---
+
+<p align="center">
+  <i>“Code is only as valuable as the problem it solves.”</i>
+</p>
+
+---
