@@ -68,9 +68,9 @@ Here are the types of projects that align with my passion and goals:
 
 ### 💬 Let’s Connect
 
-- 📩 Email: <a href="mailto:omisakinpelumi@gmail.com">omisakinpelumi@gmail.com</a>
-- 🌐 Portfolio (Coming soon): [YourPortfolio.com]
-- 🧠 Dev Blog: [Dev.to/YourHandle] *(optional)*
+- 📩 Email: <a href="mailto:omisakinpelumi@gmail.com">osomisakin@gmail.com</a>
+- 🌐 Portfolio (Coming soon): [
+- 🧠 Dev Blog: 
 
 ---
 
