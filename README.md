@@ -1,35 +1,42 @@
-<h1>Hi, I'm Oluwapelumi! <br/><a href="https://github.com/Emmanuel5012">Programmer</a>, <a href="https://www.linkedin.com/in/oluwapelumi-omisakin/">Web and Mobile App Professional</a></h1>
+<h1>Hi, I'm Oluwapelumi!<br/>
+  <a href="https://github.com/Emmanuel5012">Junior Web Developer</a> | 
+ </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👤 About Me</h2>
+<p>
+  I'm a passionate and curious junior developer focused on building impactful web and mobile experiences. I enjoy solving real-world problems with clean code and scalable backend systems. I am currently enrolled in the ALX ProDev Backend Development Program, where I am currently increasing my knowledge in my backend skils</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>🔧 Technologies & Tools</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🚧 Current Learning Focus</h2>
+<ul>
+  <li>🧱 Building scalable backend APIs with Python (Flask/Django)</li>
+  <li>🔐 Implementing robust API security (Auth, OAuth, Rate Limiting)</li>
+  <li>🛠️ CI/CD with GitHub Actions & Docker</li>
+  <li>🧠 Advanced Bash scripting and Linux command-line tools</li>
+  <li>📊 Designing efficient data models and pipelines</li>
+</ul>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/pheloumi
-[linkedin]: https://linkedin.com/in/oluwapelumi-omisakin
+<h2>🤝 Connect With Me</h2>
+<p>
+  <a href="https://twitter.com/pheloumi">
+    <img align="left" alt="Oluwapelumi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/oluwapelumi-omisakin">
+    <img align="left" alt="Oluwapelumi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
+<br style="clear:both"/>
